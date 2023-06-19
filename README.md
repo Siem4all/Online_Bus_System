@@ -9,7 +9,7 @@ To download and use this project, follow these steps:
 
 4. Download and install xampp or wamp server by following the instructions in the "Prerequisites" section below if you have not downloaded and installed either of them.
 
-5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder.
+5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder and rename it to "odaabus".
 
 6. Create database with the name "odaabus" and import the database/odaabus.sql file into the database you created.
 
