@@ -21,7 +21,7 @@ To download and use this project, follow these steps:
 
 10. Stripe demo payment
    
-      Name on Card:test
+      <b>Name on Card:</b> Test
    
       Card Number:4242 4242 4242 4242
    
