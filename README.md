@@ -28,8 +28,13 @@
    Password:12345678
 
 7. Stripe Demo payment
+   
       Name on Card:test
+   
       Card Number:4242 4242 4242 4242
+   
       CVC:234
+   
       Expiration Month:09
+   
       Expiration Year:2027
