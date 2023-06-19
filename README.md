@@ -44,15 +44,21 @@ To download and use this project, follow these steps:
    
       Expiration Year:2027
 
-    # Prerequisites
-Before you can run this PHP project, you need to have Composer installed on your system. Composer is a dependency manager for PHP that allows you to easily install and manage project dependencies.
+   # Prerequisites
+Before you can run this PHP project, you need to have XAMPP or WAMP and Composer installed on your system.
+
+To install XAMPP or WAMP, follow these steps:
+
+1. Download the XAMPP or WAMP installer from their respective websites.
+
+2. Run the installer and follow the installation instructions.
+
+3. Start the Apache and MySQL services in XAMPP or WAMP.
 
 To install Composer, follow these steps:
 
-Go to the Composer website at https://getcomposer.org/download/ and download the Composer setup file for Windows.
+1. Go to the Composer website at https://getcomposer.org/download/ and download the Composer setup file for Windows.
 
-Run the Composer setup file and follow the installation instructions. During the installation process, you will be prompted to select a PHP executable file and set up the PATH environment variable.
+2. Run the Composer setup file and follow the installation instructions. During the installation process, you will be prompted to select a PHP executable file and set up the PATH environment variable.
 
-Once the installation is complete, open a new Command Prompt window and run the command composer. If Composer is installed correctly, you should see the Composer version and a list of available commands.
-
-After installing Composer, you can use it to manage the dependencies of this PHP project by running the command composer install from the project directory in a Command Prompt window. This will install all the required packages and their dependencies.
+3. Once the installation is complete, open a new Command Prompt window and run the command composer. If Composer is installed correctly, you should see the Composer version and a list of available commands.
