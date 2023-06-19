@@ -37,12 +37,12 @@ To download and use this project, follow these steps:
    email: admin@gmail.com
    
    Banker
-   email:banker@gmail.com
+   email: banker@gmail.com
    
    User
-   email:user@gmail.com
+   email: user@gmail.com
    
-   Password:12345678
+   Password: 12345678
 
    # Prerequisites
 Before you can run this PHP project, you need to have XAMPP or WAMP and Composer installed on your system.
