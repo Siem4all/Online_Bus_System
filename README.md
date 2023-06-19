@@ -7,13 +7,13 @@ To download and use this project, follow these steps:
 
 3. If you have not installed Composer yet, download and install it by following the instructions in the "Prerequisites" section below.
 
-4. download and install xampp or wamp server by following the instructions in the "Prerequisites" section below.
+4. Download and install xampp or wamp server by following the instructions in the "Prerequisites" section below if you have not downloaded and installed either of them.
 
 5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder.
 
-6. Create database with the name "odaabus" and import the database/odaabus.sql file into the database you created
+6. Create database with the name "odaabus" and import the database/odaabus.sql file into the database you created.
 
-7. Open a terminal or command prompt and navigate to the project directory
+7. Open a terminal or command prompt and navigate to the project directory.
 
 8. Run the command "php artisan serve" to start the Laravel development server.
 
