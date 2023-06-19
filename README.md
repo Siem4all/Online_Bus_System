@@ -12,7 +12,7 @@
 
 6. Open Command Prompt and type "cd /xampp/htdocs/odaabus" or "cd /wamp/www/odaabus"
 
-7. Type "php artisan serve" to run the project, copy the generated URL [http://127.0.0.1:8000] and paste it into your browser URL
+7. Type "php artisan serve" to run the project, copy the generated URL [http://127.0.0.1:8000] and paste it into your browser's URL
 
 8. Login credentials
   
