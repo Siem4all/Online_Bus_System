@@ -21,15 +21,15 @@ To download and use this project, follow these steps:
 
 10. Stripe demo payment
    
-      <b>Name on Card:</b> Test
+      Name on Card: Test
    
-      <b>Card Number:</b> 4242 4242 4242 4242
+      Card Number: 4242 4242 4242 4242
    
-      <b>CVC:</b> 234
+      CVC:234
    
-      <b>Expiration Month:</b> 09
+      Expiration Month: 09
    
-      <b>Expiration Year:</b> 2027
+      Expiration Year: 2027
 
 11. Login credentials
   
