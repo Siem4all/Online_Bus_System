@@ -15,7 +15,7 @@ To download and use this project, follow these steps:
 
 7. Open a terminal or command prompt and navigate to the project directory
 
-8. Run the command php artisan serve to start the Laravel development server.
+8. Run the command "php artisan serve" to start the Laravel development server.
 
 9. Open your web browser and navigate to http://localhost:8000 to view the project.
 
