@@ -13,7 +13,7 @@ To download and use this project, follow these steps:
 
 5. Create database with the name odaabus and import the database/odaabus.sql file into it
 
-6.Open a terminal or command prompt and navigate to the project directory
+6. Open a terminal or command prompt and navigate to the project directory
 
 7. Run the command php artisan serve to start the Laravel development server.
 
@@ -44,7 +44,7 @@ To download and use this project, follow these steps:
    
       Expiration Year:2027
 
-    #Prerequisites
+    # Prerequisites
 Before you can run this PHP project, you need to have Composer installed on your system. Composer is a dependency manager for PHP that allows you to easily install and manage project dependencies.
 
 To install Composer, follow these steps:
