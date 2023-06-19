@@ -2,9 +2,9 @@
 
 1. Download or Clone the project and rename it to odaabus
 
-2. If you do not install composer, download it using this link:-https://getcomposer.org/Composer-Setup.exe and install it
+2. If you do not download and  install <a href="https://getcomposer.org/Composer-Setup.exe">Composer</a>,download it to install
 
-3. Download either xampp or wamp server if you do no have any of them
+3. Download either <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> server if you do no have any of them
 
 3. Paste the project you download to your xampp/htdocs or wamp/www folder
 
