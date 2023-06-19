@@ -12,7 +12,7 @@
 
 6. Open Command Prompt and type "cd /xampp/htdocs/project name" or "cd /wamp/www/project name"
 
-7. Type "php artisan serve" to run the project and copy http://127.0.0.1:8000 to you URL
+7. Type "php artisan serve" to run the project, copy the generated URL [http://127.0.0.1:8000] and paste it into your browser URL
 
 8. Login credentials
   
