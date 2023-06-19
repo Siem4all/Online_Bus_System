@@ -23,13 +23,13 @@ To download and use this project, follow these steps:
    
       <b>Name on Card:</b> Test
    
-      Card Number:4242 4242 4242 4242
+      <b>Card Number:</b> 4242 4242 4242 4242
    
-      CVC:234
+      <b>CVC:</b> 234
    
-      Expiration Month:09
+      <b>Expiration Month:</b> 09
    
-      Expiration Year:2027
+      <b>Expiration Year:</b> 2027
 
 11. Login credentials
   
