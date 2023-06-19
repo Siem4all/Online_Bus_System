@@ -19,7 +19,19 @@ To download and use this project, follow these steps:
 
 9. Open your web browser and navigate to http://localhost:8000 to view the project.
 
-10. Login credentials
+10. Stripe demo payment
+   
+      Name on Card:test
+   
+      Card Number:4242 4242 4242 4242
+   
+      CVC:234
+   
+      Expiration Month:09
+   
+      Expiration Year:2027
+
+11. Login credentials
   
    Admin
    email: admin@gmail.com
@@ -31,18 +43,6 @@ To download and use this project, follow these steps:
    email:user@gmail.com
    
    Password:12345678
-
-11. Stripe Demo payment
-   
-      Name on Card:test
-   
-      Card Number:4242 4242 4242 4242
-   
-      CVC:234
-   
-      Expiration Month:09
-   
-      Expiration Year:2027
 
    # Prerequisites
 Before you can run this PHP project, you need to have XAMPP or WAMP and Composer installed on your system.
