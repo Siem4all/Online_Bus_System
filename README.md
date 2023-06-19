@@ -1,20 +1,25 @@
-# How to run the project
+# Download and Installation
+To download and use this project, follow these steps:
 
-1. Download or Clone the project and rename it to odaabus
+1. Click on the green "Code" button at the top of the repository page. 
 
-2. If you do not download and  install <a href="https://getcomposer.org/Composer-Setup.exe">Composer</a>,download it to install
+2. Click on the "Download ZIP" option to download the project as a compressed ZIP file.
 
-3. Download either <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> server if you do no have any of them
+3. If you have not installed Composer yet, download and install it by following the instructions in the "Prerequisites" section below.
 
-4. Paste the project you download to your xampp/htdocs or wamp/www folder
+4. Download and install either <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> server if you don't have any of them.
 
-5. Create odaabus database and import the database/odaabus.sql file into it
+5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder.
 
-6. Open Command Prompt and type "cd /xampp/htdocs/odaabus" or "cd /wamp/www/odaabus"
+5. Create database with the name odaabus and import the database/odaabus.sql file into it
 
-7. Type "php artisan serve" to run the project, copy the generated URL [http://127.0.0.1:8000] and paste it into your browser's URL
+6.Open a terminal or command prompt and navigate to the project directory
 
-8. Login credentials
+7. Run the command php artisan serve to start the Laravel development server.
+
+8. Open your web browser and navigate to http://localhost:8000 to view the project.
+
+9. Login credentials
   
    Admin
    email: admin@gmail.com
@@ -27,7 +32,7 @@
    
    Password:12345678
 
-9. Stripe Demo payment
+10. Stripe Demo payment
    
       Name on Card:test
    
@@ -38,3 +43,16 @@
       Expiration Month:09
    
       Expiration Year:2027
+
+    #Prerequisites
+Before you can run this PHP project, you need to have Composer installed on your system. Composer is a dependency manager for PHP that allows you to easily install and manage project dependencies.
+
+To install Composer, follow these steps:
+
+Go to the Composer website at https://getcomposer.org/download/ and download the Composer setup file for Windows.
+
+Run the Composer setup file and follow the installation instructions. During the installation process, you will be prompted to select a PHP executable file and set up the PATH environment variable.
+
+Once the installation is complete, open a new Command Prompt window and run the command composer. If Composer is installed correctly, you should see the Composer version and a list of available commands.
+
+After installing Composer, you can use it to manage the dependencies of this PHP project by running the command composer install from the project directory in a Command Prompt window. This will install all the required packages and their dependencies.
