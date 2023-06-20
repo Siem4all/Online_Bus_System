@@ -11,7 +11,7 @@ To download and use this project, follow these steps:
 
 5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder and rename it to "odaabus".
 
-6. Create database with the name "odaabus" and import the database/odaabus.sql file into the database you created.
+6. Create database with the name "odaabus" and import the database/odaabus.sql file into the database you have created.
 
 7. Open a terminal or command prompt and navigate to the project directory.
 
